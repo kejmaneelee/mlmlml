@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page12.html",
+    "currentPage": "StrayKidsByMuayLee.html",
     "name": "StrayKidsByMuayLee",
     "theme": {
       "name": "mobirise3",
@@ -34,12 +34,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/22-128x128.png",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png",
-    "publishFtpPath": "public_html",
-    "publishType": "github",
-    "gitHubName": "kejmaneelee",
-    "gitHubPath": "",
-    "publishPath": "@PROJECT_PATH@"
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "StrayKidsByMuayLee.html": {
